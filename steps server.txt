@@ -1,0 +1,2 @@
+1- https://scribles.net/updating-bluez-on-raspberry-pi-from-5-43-to-5-50/
+2- https://scribles.net/creating-ble-gatt-server-uart-service-on-raspberry-pi/
